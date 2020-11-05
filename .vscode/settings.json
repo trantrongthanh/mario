@@ -1,0 +1,8 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2b10992c-0dc4-4402-ae74-87d43c7adc42/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/thanh-mario"
+}
